@@ -1,1 +1,0 @@
-print('Hw;d qmlem jol2mekm')
